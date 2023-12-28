@@ -1,2 +1,2 @@
-# Sanber52-Cypress-Kelompok14
-Proyek kelompok 14 pada bootcamp Sanbercode batch 52
+# Sanber52-Cypress-Kelompok16
+Proyek kelompok 16 pada bootcamp Sanbercode batch 52
