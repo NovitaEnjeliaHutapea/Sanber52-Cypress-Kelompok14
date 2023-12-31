@@ -18,3 +18,4 @@ Feature will be test:
 5. Can choose products?
 6. Can view and update shopping cart?
 7. Can process to checkout?
+
