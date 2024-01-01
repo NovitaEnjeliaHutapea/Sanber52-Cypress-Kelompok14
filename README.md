@@ -1,5 +1,5 @@
 # Sanber52-Cypress-Kelompok16
-This is project testing using cypress from group 16 at Sanbercode Bootcamp Batch 52
+This is project automation testing using cypress from group 16 at Sanbercode Bootcamp Batch 52
 
 Member of group 16:
 1. Mega Rahmanita
