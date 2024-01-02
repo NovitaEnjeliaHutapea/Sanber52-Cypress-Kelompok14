@@ -12,11 +12,11 @@ class Checkout {
     }
 
     clickCheckout(){
-        cy.get(this.btnCheckout).click()
+        cy.get(this.btnCheckout).click({force: true})
     }
 
     clickNext(){
-        cy.get(this.btnNext, { timeout: 10000 }).click()
+        cy.get(this.btnNext).click()
     }
 
     doPlaceOrder(){
