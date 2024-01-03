@@ -1,5 +1,5 @@
 # Sanber52-Cypress-Kelompok16
-This is project testing using cypress from group 16 at Sanbercode Bootcamp Batch 52
+This is project automation testing using cypress from group 16 at Sanbercode Bootcamp Batch 52
 
 Member of group 16:
 1. Mega Rahmanita
@@ -11,11 +11,11 @@ Member of group 16:
 7. Novita Enjelia Hutapea
 
 Feature will be test:
-1. Can create an account?
-2. Can login?
-3. Can edit account information?
-4. Can edit address?
-5. Can choose products?
-6. Can view and update shopping cart?
-7. Can process to checkout?
+1. Can create an account? - Risna Firsty
+2. Can login? - Novita Enjelia Hutapea
+3. Can edit account information? - Mega Rahmanita
+4. Can edit address? - Ulfi Fatmawati
+5. Can choose products? - Tia Ariska Putri
+6. Can view and update shopping cart? - Eka Marliana Puteri
+7. Can process to checkout? - Cynthia Sherina Fadeli
 
